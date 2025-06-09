@@ -131,7 +131,7 @@ export default function Home() {
               Portfolio
             </h1>
             <p className="text-zinc-400 max-w-2xl mx-auto text-sm md:text-base">
-We are one of India’s most affordable and fast-growing web development companies, trusted by startups and businesses alike. With over 25+ successful projects delivered, we combine innovation, performance, and design to help brands build a powerful online presence and achieve measurable growth.
+We are one of India’s most affordable and fast-growing web development companies, trusted by startups and businesses.
 
             </p>
           </div>
