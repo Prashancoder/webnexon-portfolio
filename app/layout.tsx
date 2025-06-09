@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Prashant Portfolio",
+  title: "WebNexon Portfolio",
   description:
     "Prashant Portfolio",
     generator: 'v0.dev'
