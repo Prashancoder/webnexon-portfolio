@@ -127,11 +127,12 @@ export default function Home() {
         <div className="container px-4 sm:px-6">
           <div className="text-center mb-8">
             <h1 className="text-3xl md:text-5xl font-bold mb-4">
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-purple-600">Prashant</span>{" "}
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-purple-600">WebNexon</span>{" "}
               Portfolio
             </h1>
             <p className="text-zinc-400 max-w-2xl mx-auto text-sm md:text-base">
-            From late-night college sprints to real-time client work at CMT AI, each project here tells a story of growth, learning, and passion for development.
+We are one of India’s most affordable and fast-growing web development companies, trusted by startups and businesses alike. With over 25+ successful projects delivered, we combine innovation, performance, and design to help brands build a powerful online presence and achieve measurable growth.
+
             </p>
           </div>
 
