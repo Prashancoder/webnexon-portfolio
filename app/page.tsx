@@ -127,12 +127,12 @@ export default function Home() {
         <div className="container px-4 sm:px-6">
           <div className="text-center mb-8">
             <h1 className="text-3xl md:text-5xl font-bold mb-4">
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-purple-600">WebNexon</span>{" "}
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-purple-600">Prashant</span>{" "}
               Portfolio
             </h1>
             <p className="text-zinc-400 max-w-2xl mx-auto text-sm md:text-base">
-We are one of India’s most affordable and fast-growing web development companies, trusted by startups and businesses.
-
+            Previously, I worked as a Full Stack Developer at CMT AI, a fast-growing tech company. During my time there, I was involved in developing web applications, managing APIs, integrating databases, and ensuring responsive design.
+            Here are some of the projects I contributed to:
             </p>
           </div>
 
